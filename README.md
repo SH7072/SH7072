@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+-->
 <p align="center">
 <a href="https://github.com/theninza">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SH7072&show_icons=true&theme=algolia&count_private=true"/>
 </a>
 </p>
 
--->
 
