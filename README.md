@@ -7,8 +7,8 @@
   
  <h1 align="center">Hi there, I'm Shubham 👋</h1>
    
-   
-![](https://komarev.com/ghpvc/?username=SH7072&style=flat-square)
+<!--    
+![](https://komarev.com/ghpvc/?username=SH7072&style=flat-square) -->
 
    ## 👨🏻‍💻 &nbsp;About Me
 - 🔭 Currently working on React projects.
