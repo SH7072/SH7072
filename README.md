@@ -8,6 +8,8 @@
  <h1 align="center">Hi there, I'm Shubham 👋</h1>
    
    
+![](https://komarev.com/ghpvc/?username=SH7072&style=flat-square)
+
    ## 👨🏻‍💻 &nbsp;About Me
 - 🔭 Currently working on React projects.
 - 📚 Majoring in Computer Science at Indian Institute of Information Technology, Sri City.
