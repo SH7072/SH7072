@@ -1,8 +1,9 @@
 
 
 
+<!--
 <p align="center"><img align='center' src='https://github.com/SH7072/SH7072/blob/main/daftpunktocat-thomas.gif' width='150"'><p>
- 
+ -->
  <h4 align="center"> 
   
  <h1 align="center">Hi there, I'm Shubham 👋</h1>
