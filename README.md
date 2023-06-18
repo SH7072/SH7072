@@ -39,7 +39,7 @@
 ![snake gif](https://github.com/SH7072/SH7072/blob/output/github-contribution-grid-snake.gif)   
    
    <p>
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=SH7072&show_icons=true&theme=radical&count_private=true%27"/>
+<img align="center" width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SH7072&show_icons=true&theme=radical&count_private=true"/>
 <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SH7072&count_private=true&theme=radical" alt="SH7072"/>
 </p>
 
@@ -48,6 +48,16 @@
 <!-- <a href="https://github.com/SH7072">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SH7072&show_icons=true&theme=algolia&count_private=true"/>
 </a> -->
+</p>
+
+##### Do check out my repositories and feel free to reach out if you'd like to collaborate.
+
+## Find me online on:
+
+<p align="center">
+<a href="https://www.linkedin.com/in/shubham-chandwani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ShubhamChandwani" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:chandwanishubham@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="ShubhamChandwani" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
 
